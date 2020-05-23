@@ -7,9 +7,9 @@
   },
   {
     "remote": "github",
-    "repository": "srgrusso/android_kernel_samsung_exynos7870",
+    "repository": "BlissRoms-Devices/android_kernel_samsung_exynos7870",
     "target_path": "kernel/samsung/exynos7870",
-    "revision": "10-m105"
+    "revision": "q"
   },
   {
     "remote": "github",
